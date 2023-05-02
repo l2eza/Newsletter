@@ -1,2 +1,1 @@
-# newsletter
- exalate newsletter
+# Newsletter design for Exalate
